@@ -1,0 +1,1 @@
+As of now I learnt git init,add,status,log,diff and checkout commands
